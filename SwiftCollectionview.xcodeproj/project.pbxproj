@@ -14,6 +14,7 @@
 		AB66309D2523542E00F4E289 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB66309C2523542E00F4E289 /* Assets.xcassets */; };
 		AB6630A02523542E00F4E289 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB66309E2523542E00F4E289 /* LaunchScreen.storyboard */; };
 		AB6630A92523561600F4E289 /* RutaCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB6630A82523561600F4E289 /* RutaCollectionViewCell.swift */; };
+		ABBE85932525BEEE007514E0 /* InfoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBE85922525BEEE007514E0 /* InfoCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AB66309F2523542E00F4E289 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB6630A12523542E00F4E289 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB6630A82523561600F4E289 /* RutaCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RutaCollectionViewCell.swift; sourceTree = "<group>"; };
+		ABBE85922525BEEE007514E0 /* InfoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				AB66309C2523542E00F4E289 /* Assets.xcassets */,
 				AB66309E2523542E00F4E289 /* LaunchScreen.storyboard */,
 				AB6630A12523542E00F4E289 /* Info.plist */,
+				ABBE85922525BEEE007514E0 /* InfoCollectionViewCell.swift */,
 			);
 			path = SwiftCollectionview;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABBE85932525BEEE007514E0 /* InfoCollectionViewCell.swift in Sources */,
 				AB6630982523542C00F4E289 /* ViewController.swift in Sources */,
 				AB6630942523542C00F4E289 /* AppDelegate.swift in Sources */,
 				AB6630A92523561600F4E289 /* RutaCollectionViewCell.swift in Sources */,
